@@ -1,7 +1,6 @@
 #lab 7 open ended
 #Project name :Student
-#Roll number# 24f-bsai-068
-from statistics import linear_regression
+#Roll number# 24f-bsai-068git
 
 #IMPORTS:
 import pandas as pd
